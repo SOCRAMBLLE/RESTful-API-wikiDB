@@ -8,14 +8,18 @@ Before you begin, make sure you have the following installed:
 Node.js - The JavaScript runtime environment.
 MongoDB - The NoSQL database.
 
-Installation
+Installation:
 1. Clone this repository to your local environment:
+
 git clone https://github.com/SOCRAMBLLE/RESTful-API-wikiDB.git
+
 cd REPO_NAME
+
 
 2. Install the required dependencies using npm:
 npm install
-Configuration
+
+Configuration:
 Make sure you have MongoDB running on your machine or provide a valid connection URL in the app.js file.
 
 Edit the app.js file to set up your database configuration, such as the database name and connection URL.
