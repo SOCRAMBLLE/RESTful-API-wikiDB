@@ -20,15 +20,20 @@ cd REPO_NAME
 npm install
 
 Configuration:
+
 Make sure you have MongoDB running on your machine or provide a valid connection URL in the app.js file.
 
 Edit the app.js file to set up your database configuration, such as the database name and connection URL.
 
+
 3. Run the API
+
 Run the following command to start the API:
+
 node app.js
 
 or, if you prefer to use nodemon to automatically restart the server after changes:
+
 nodemon app.js
 
 
